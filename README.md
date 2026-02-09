@@ -24,11 +24,12 @@ Our **FACES** recruited 11,427 healthy schoolchild, with their scale **DASS-21**
 
 ## 📄 Citation
 ```
-@article{xu2024faces,
+@article{xu2026faces,
   title={Faces of the Mind: Unveiling Mental Health States Through Facial Expressions in 11,427 Adolescents},
-  author={Xu, Xiao and Zhou, Keyin and Zhang, Yan and Wang, Yang and Wang, Fei and Zhang, Xizhe},
-  journal={arXiv preprint arXiv:2405.20072},
-  year={2024}
+  author={Xu, Xiao and Zhang, Xizhe and Zhang, Yan},
+  journal={IEEE Transactions on Affective Computing},
+  year={2026},
+  publisher={IEEE}
 }
 ```
 ---
